@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Team01</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_welcome">Home Screen</string><string name="next">NEXT</string><string name="skip">SKIP</string><string name="start">GOT IT</string><string name="head1">Activate Bluetooth</string><string name="head2">Find your lost items</string><string name="head3">Find your lost phone</string><string name="text1">This app uses Bluetooth technologie to grant connection to your valuable items.</string><string name="text12">Just remember to activate your Bluetooth so Track it! can keep an eye on your stuff</string><string name="text2">Find out if you are coming nearer your lost object using the applications alarm </string><string name="text3"> It works in reverse as well!</string><string name="text31"> Click the button of your Track it! device and find where your lost phone is!</string><string name="Tack"> Track it!</string>
+</resources>

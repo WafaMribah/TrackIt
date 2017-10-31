@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Items">
+        <menu>
+            <item
+                android:id="@+id/portefeuille"
+                android:icon="@drawable/ic_portefeuille"
+                android:title="Personal Wallet" />
+            <item
+                android:id="@+id/Tablette"
+                android:icon="@drawable/ic_tablette"
+                android:title="Tablet" />
+
+
+        </menu>
+    </item>
+
+
+    <item android:title="Options">
+        <menu>
+            <item
+                android:id="@+id/add_item"
+                android:icon="@drawable/add"
+                android:title="Add item" />
+            <item
+                android:id="@+id/delete_item"
+                android:icon="@drawable/ic_trash"
+                android:title="Delete item" />
+
+
+        </menu>
+    </item>
+
+    <group android:checkableBehavior="single"
+        >
+        <item
+            android:id="@+id/action_settings"
+            android:icon="@drawable/settings"
+            android:title="Settings" />
+        <item
+            android:id="@+id/action_help"
+            android:icon="@drawable/help"
+            android:title="Help" />
+
+    </group>
+
+</menu>

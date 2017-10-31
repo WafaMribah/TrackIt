@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    tools:context="web.afor.innovation.team01.SplashScreen">
+
+
+
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+          android:layout_marginTop="80dp"
+            android:layout_centerHorizontal="true"
+            android:text="Track IT"
+            android:textSize="40sp"
+            android:textStyle="bold"
+            android:textColor="@color/navheaderbar"
+            />
+
+        <ImageView android:id="@+id/splashscreen" android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/track"
+            android:layout_marginTop="60dp"
+            android:layout_gravity="center"/>
+
+
+</RelativeLayout>
